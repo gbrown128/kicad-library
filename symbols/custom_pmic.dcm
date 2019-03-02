@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX17220
+D MAX1722x Nanopower Boost Converter
+K boost PMIC
+F https://datasheets.maximintegrated.com/en/ds/MAX17220-MAX17225.pdf
+$ENDCMP
+#
+#End Doc Library
