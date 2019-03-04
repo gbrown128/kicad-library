@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L80-M39
+D Quectel L80-M39 GPS Module
+K GPS
+F https://4donline.ihs.com/images/VipMasterIC/IC/QWSC/QWSC-S-A0004134860/QWSC-S-A0004134860-1.pdf
+$ENDCMP
+#
+#End Doc Library

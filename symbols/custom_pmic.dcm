@@ -6,4 +6,22 @@ K boost PMIC
 F https://datasheets.maximintegrated.com/en/ds/MAX17220-MAX17225.pdf
 $ENDCMP
 #
+$CMP RT2805A
+D RT2805A 5A, 36V, 500kHz Current Mode Asynchronous Step-DownConverter
+K PMIC buck
+F https://www.richtek.com/assets/product_file/RT2805A/DS2805A-03.pdf
+$ENDCMP
+#
+$CMP SiP32431
+D Ultra Low Leakage and Quiescent Current,Load Switch with Reverse Blocking
+K PMIC switch power micropower
+F https://www.vishay.com/docs/66597/sip32431.pdf
+$ENDCMP
+#
+$CMP TPL5111
+D Nano-Power System Timer for Power Gating
+K timer micropower
+F http://www.ti.com/lit/ds/symlink/tpl5111.pdf
+$ENDCMP
+#
 #End Doc Library

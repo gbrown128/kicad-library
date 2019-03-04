@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8420
+D Instrumentation Amplifier
+K micropower, r2r
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8420.pdf
+$ENDCMP
+#
+#End Doc Library
