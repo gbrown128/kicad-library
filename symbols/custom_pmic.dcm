@@ -12,6 +12,12 @@ K PMIC buck
 F https://www.richtek.com/assets/product_file/RT2805A/DS2805A-03.pdf
 $ENDCMP
 #
+$CMP ST662AC
+D 12V Charge Pump Boost Converter
+K PMIC boost charge-pump
+F https://www.st.com/resource/en/datasheet/st662ac.pdf
+$ENDCMP
+#
 $CMP SiP32431
 D Ultra Low Leakage and Quiescent Current,Load Switch with Reverse Blocking
 K PMIC switch power micropower

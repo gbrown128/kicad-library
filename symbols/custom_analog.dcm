@@ -6,4 +6,16 @@ K micropower, r2r
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8420.pdf
 $ENDCMP
 #
+$CMP ADA4862
+D High Speed Op-Amp 300MHz G=+2
+K analog video line-driver
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4862-3.pdf
+$ENDCMP
+#
+$CMP FMS6501A
+D 12x9 Video Crosspoint Switch
+K video switch
+F https://www.onsemi.com/pub/Collateral/FMS6501A-D.pdf
+$ENDCMP
+#
 #End Doc Library

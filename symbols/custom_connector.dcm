@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SCART_Conn
+D SCART Connector
+K SCART
+$ENDCMP
+#
+#End Doc Library
